@@ -31,3 +31,5 @@
 
 توربونت VPN برای کاربرانِ ایران است: سرورهای هلند، فنلاند و آمریکا، هر سه پروتکل در یک اشتراک،
 تستِ رایگانِ یک‌روزه، خرید خودکار از ربات تلگرام [@TurboNetIR_bot](https://t.me/TurboNetIR_bot).
+
+> توربونت (TurboNet) سرویسی مستقل است و هیچ ارتباطی با کانال‌ها یا ربات‌های هم‌نام مثل @turbonets، @TuorboNet یا @TuorboNetBot ندارد. تنها ربات رسمی: [@TurboNetIR_bot](https://t.me/TurboNetIR_bot) · کانال رسمی: [@turbocloudvpn](https://t.me/turbocloudvpn)
